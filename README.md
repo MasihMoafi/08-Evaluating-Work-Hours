@@ -1,2 +1,3 @@
 # Evaluating-Work-Hours
-My first project, using linear reg, polynomial reg to evaluate my work schedule
+This is my first project, the goal of the project was to evaluate my work hours over approximately 50 weeks, 
+using linear reg, polynomial reg yielded the best results. 
