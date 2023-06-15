@@ -5,8 +5,6 @@ Usage
 
 To run the code, make sure the required dependencies are installed. Then, execute the Python script work_hours_analysis.py.
 
-bash
-
 python work_hours_analysis.py
 
 Dependencies
